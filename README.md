@@ -1,12 +1,3 @@
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Sourav</h1>
 <h3 align="center">An aspiring computer science student at Georgia state university. Strong Interest in web development, app development and problem solving.</h3>
 
