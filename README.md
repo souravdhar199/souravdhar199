@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sourav</h1>
-<h3 align="center">An aspiring computer science student at Georgia State University. Strong interest in web development, app development and problem solving.</h3>
+<h3 align="center">An aspiring computer science student at Georgia State University. Strong interest in web development and problem solving.</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
